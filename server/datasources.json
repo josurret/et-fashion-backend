@@ -1,0 +1,18 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongo1": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "et-fashion",
+    "password": "",
+    "name": "mongo1",
+    "user": "",
+    "useNewUrlParser": true,
+    "useUnifiedTopology": true,
+    "connector": "mongodb"
+  }
+}

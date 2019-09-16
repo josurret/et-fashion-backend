@@ -1,0 +1,12 @@
+[
+  {
+    "method": "GET",
+    "model": "Categories",
+    "expect": 200
+  },
+  {
+    "method": "GET",
+    "model": "Products",
+    "expect": 200
+  }
+]
