@@ -4,15 +4,16 @@
     "connector": "memory"
   },
   "mongo1": {
-    "host": "localhost",
+    "host": "cluster0-ynpui.azure.mongodb.net",
     "port": 27017,
-    "url": "",
     "database": "et-fashion",
-    "password": "",
+    "password": "ZOYda6vJwsbgO0RZ",
     "name": "mongo1",
-    "user": "",
+    "protocol" : "mongodb+srv",
+    "user": "test",
     "useNewUrlParser": true,
     "useUnifiedTopology": true,
-    "connector": "mongodb"
+    "connector": "mongodb",
+    "authSource": "admin"
   }
 }
